@@ -1,7 +1,7 @@
 ---
 name: Question Templete
 about: ask a question of owner
-title: "[QUESTION]"
+title: "[QUESTION] : "
 labels: help wanted, question
 assignees: yunamaki3
 
